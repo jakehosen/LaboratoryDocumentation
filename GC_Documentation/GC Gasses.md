@@ -1,7 +1,7 @@
 # LaboratoryDocumentation
 
 ## Methane Gasses
-| CH_4 Concentration      | Description |
+| CH<sub>4</sub> Concentration      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
