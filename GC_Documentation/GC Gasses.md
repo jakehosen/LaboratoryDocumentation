@@ -1,6 +1,10 @@
 # LaboratoryDocumentation
 
 ## Methane Gasses
+| CH_4 Concentration      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 * 1000 ppm: https://www.grainger.com/product/GASCO-Calibration-Gas-Methane-Nitrogen-23YM54
 * 100 ppm: https://www.grainger.com/product/GASCO-Calibration-Gas-Air-Methane-23YM34?searchQuery=23YM34&searchBar=true&tier=Not+Applicable
 * 10 ppm: https://www.grainger.com/product/GASCO-Calibration-Gas-Methane-Nitrogen-23YM52
