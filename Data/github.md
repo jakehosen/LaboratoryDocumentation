@@ -2,5 +2,5 @@
 
 ## Merging branches on two different forks
 
-Start by cloding the first repo that you want to merge:
+Start by cloding the first repo that you want to merge:<br>
 ``` git clone -o staging http://staging ```
