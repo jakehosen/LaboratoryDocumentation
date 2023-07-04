@@ -19,12 +19,12 @@ After this type
 
 After doing that, git branch -r will show the branches from both staging and project2, like this:
 
-$ git branch -r
-staging/Production
-staging/UAT
-project2/Master
-project2/QA
-project2/DEV
+$ git branch -r<br>
+staging/Production<br>
+staging/UAT<br>
+project2/Master<br>
+project2/QA<br>
+project2/DEV<br>
 
 Next checkout the branch you want to merge to, like this:
 
