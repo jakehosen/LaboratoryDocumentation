@@ -38,7 +38,7 @@ Now you have a copy of the UAT branch from staging checked out. You can merge in
 
 Now all changes from the branch Master of project2 are merged into the current branch (which is staging_UAT). You might want to have a look at git log to see the result. If it fits your expecations, you can push it to the Staging repository:
 
-$ git push staging staging_UAT:UAT
+``` git push staging staging_UAT:UAT ```
 
 Doing this you push the current state of your local branch staging_UAT to the branch UAT in the remote repository called staging.
 
