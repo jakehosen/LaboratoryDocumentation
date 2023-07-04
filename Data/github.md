@@ -1,5 +1,47 @@
 # Github Guide
 
+## How to make a fork of an existing repo
+If you are going to create a new feature, the approach is to fork the repository and create a branch that is for a single feature.
+Create a fork of the project on github. Check under settings to make sure that the name of the main branch is set to main and not master
+
+Clone fork locally with the following:
+``` git clone <repo-url> ```
+
+You then want to checkout the branch for the feature as follows. The convention is to name branches after a feature:
+``` git checkout -b <branch-name> ```
+Note: The "-b" flag generates a new branch. If you want to switch between branches in the future use git checkout <branch-name>
+
+Now that you've created your branch, you can set it as the upstream origin, which pushes the change to github:
+``` git push --set-upstream origin <branch-name> ```
+
+Next, you want to bring in the base repository as a remote, to do this you do the following. Here by convention we set the local name for the name branch as "base":
+``` git remote add base <original-repo-url> ```
+
+Now if you need to update your branch with changes on the base repository you can type:
+``` git fetch base ```
+``` git rebase base/main ```
+
+Now you want to bring a feature to main
+If you have not already, install github CLI: 
+​
+Create a pull request by typing: GH PR Create
+You can also use GH PR Create -d to share your code as a draft pull request (PR) with other people so they can review.
+Potential Issues
+If you have a conflict between your local branch and the master branch and you just want to reset your local branch to master branch do the following:
+git rebase <local-name-for-main-branch>/main
+If you get things really messed up type the following:
+git reset --hard HEAD
+git checkout <your-branch-name>
+GH Workflows
+Clone the root repository
+Create a fork for yourself
+add root repository as an additional remote
+when you want to work on a feature bring main branch up to date (from upstream) and then create a local branch on that and then type GH PR Create.
+GH PR Create
+
+
+
+
 ## Merging branches on two different forks
 
 Start by cloning the first repo that you want to merge:<br>
