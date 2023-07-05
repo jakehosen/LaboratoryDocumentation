@@ -26,9 +26,10 @@ If you have not already, install github CLI:
 ​
 Create a pull request by typing: GH PR Create
 You can also use GH PR Create -d to share your code as a draft pull request (PR) with other people so they can review.
-Potential Issues
+
+### Potential Issues
 If you have a conflict between your local branch and the master branch and you just want to reset your local branch to master branch do the following:
-git rebase <local-name-for-main-branch>/main
+``` git rebase <local-name-for-main-branch>/main   ```
 If you get things really messed up type the following:
 git reset --hard HEAD
 git checkout <your-branch-name>
@@ -60,14 +61,14 @@ After this type
 ``` git remote update ```
 
 After doing that, git branch -r will show the branches from both staging and project2, like this:
-
+```
 $ git branch -r<br>
 staging/Production<br>
 staging/UAT<br>
 project2/Master<br>
 project2/QA<br>
 project2/DEV<br>
-
+```
 Next checkout the branch you want to merge to, like this:
 
 ``` git checkout -b staging_UAT --track staging/UAT ```
