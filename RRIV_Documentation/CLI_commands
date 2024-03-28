@@ -1,0 +1,18 @@
+periodic cycle
+
+
+
+continuous power
+
+Gen Board config: 
+set-config {"loggerName":"CAL1","siteName":"pdock1","deploymentIdentifier":"pdock-RRIV","wakeInterval":1,"startUpDelay":0,"burstNumber":60,"interBurstDelay":1}
+
+AHT config
+set-slot-config {"slot":1,"type":"adafruit_ahtx0","tag":"aht","burst_size":10}
+	-slot 1 is intentioal, maybe should be ahead of ch4 slot
+	
+CH4 config
+set-slot-config {"slot":2,"sensorPort":2,"type":"generic_analog","adc_select":"external","tag":"ch4","burst_size":10}
+
+Co2 config
+set-slot-config {"slot":3,"type":"atlas_co2","tag":"co2","burst_size":10}
