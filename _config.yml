@@ -1,3 +1,4 @@
+title: Your awesome title
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
