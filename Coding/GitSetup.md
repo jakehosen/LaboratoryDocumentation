@@ -21,6 +21,6 @@ Git is a program that is used to track changes and collaborate. Github is one of
 * To copy a repository (aka _repo_), you go to the repository you want to clone on github (or whatever git repository site you're using) and select the green "code" button. The make sure that '"ssh" is selected and hit the copy button to get the repo link.
 * Open a terminal in whatever operating system you are using.
 * Type ```git clone``` and then paste the git repo link. Press ```[Enter]```.
-<img src="graphics/clone_repo.png" width=40% height=40%><br><br>
+<br><img src="graphics/clone_repo.png" width=40% height=40%><br>
 * To switch to a branch you should first type ```git branch -r``` this will get a full list of the remote branches on the github server.
 * Type ```git checkout {insert branch name}``` to switch to the branch on which you want to work.
