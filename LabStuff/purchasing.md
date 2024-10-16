@@ -20,7 +20,6 @@ If you ship to ABE for the first time, please contact Carol Weaver and let her k
 [Your Name]<br>
 Ag & Biological Engineering<br>
 225 S. University St. West Lafayette, IN 47907<br>
-Forest Products Room 106<br>
 
 #### Forest Products Building Shipping
 Packages shipped to Forest Products will be dropped off inside the lab. The address for Forest Products delivery is:
