@@ -12,7 +12,7 @@
 * Dry Ice Cooler
 * Regular Ice Cooler
 
-(Some info on the Lake Guardian Rosette)[https://www.epa.gov/system/files/documents/2021-12/lg200.v09-rosette-sampling_rfa.pdf]
+[Some info on the Lake Guardian Rosette](https://www.epa.gov/system/files/documents/2021-12/lg200.v09-rosette-sampling_rfa.pdf)
 
 ## Lab Preparation
 * Make kits with one sterivex filter, two 60 mL HDPE bottles, and a whirl-pak bag inside in a ziploc bag.
