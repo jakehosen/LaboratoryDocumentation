@@ -1,8 +1,10 @@
 # Lake Michigan Microbial and DOC Sampling
 ## Supplies for each site
-* 6 - one-liter HDPE sampling bottles (can be re-used between sites)
-* 1 - Sterivex PES Filter - [SVGPL10RC](https://www.sigmaaldrich.com/US/en/product/mm/svgpl10rc)
-* 2 – 60 mL HDPE sampling bottles
+* 6 — one-liter HDPE sampling bottles (can be re-used between sites)
+* 1 — Sterivex PES Filter - [SVGPL10RC](https://www.sigmaaldrich.com/US/en/product/mm/svgpl10rc)
+* 2 — 60 mL HDPE sampling bottles
+* 1 — Luer Plug
+* Pack of hematoseal
 * One or two liter graduated cylinder
 * Carboy of ultrapure water
 * Label tape or pre-printed labels
@@ -31,5 +33,6 @@
 * Place both samples in the refrigerator. The DOC sample will be stay in the refrigerator and processed in the lab within two weeks, the nutrient sample will be frozen upon returning to the lab.
 * Continuing filtering water through the Sterivex filter until all the water is used up or the filter is clogged.
 * Once filtering is complete, remove the peristaltic pump tubing from the water and continue to run the pump to remove excess water from the filter. If this is not working with the peristaltic pump, use a syringe to blow air through the filter.
+* After you have emptied the filter, cap one end with hematoseal and the other with a luer plug.
 * Label the filter with the Site, Location, Depth, Date, and Time and include "DNA". Place the filter in a whirl-pak bag and place on dry ice.
 * Upon completing filtering at a sampling location (but not in between depths) rinse the tubing with 500 mL of ultrapure water. Leave the tubing hanging to dry overnight if possible.
